@@ -1,2 +1,1 @@
-# osmanmerdan-github.io
-Bioinformatics Notes/ Workflows
+# Boinformatics Notes/ Workflows
